@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/clicky-memory-game/static/css/main.77e2a5c7.chunk.css",
+    "main.js": "/clicky-memory-game/static/js/main.80537ed7.chunk.js",
+    "main.js.map": "/clicky-memory-game/static/js/main.80537ed7.chunk.js.map",
+    "runtime-main.js": "/clicky-memory-game/static/js/runtime-main.00513e4d.js",
+    "runtime-main.js.map": "/clicky-memory-game/static/js/runtime-main.00513e4d.js.map",
+    "static/js/2.dbaea621.chunk.js": "/clicky-memory-game/static/js/2.dbaea621.chunk.js",
+    "static/js/2.dbaea621.chunk.js.map": "/clicky-memory-game/static/js/2.dbaea621.chunk.js.map",
+    "index.html": "/clicky-memory-game/index.html",
+    "precache-manifest.43ef60bb086362ec44827f73f80e6570.js": "/clicky-memory-game/precache-manifest.43ef60bb086362ec44827f73f80e6570.js",
+    "service-worker.js": "/clicky-memory-game/service-worker.js",
+    "static/css/main.77e2a5c7.chunk.css.map": "/clicky-memory-game/static/css/main.77e2a5c7.chunk.css.map",
+    "static/js/2.dbaea621.chunk.js.LICENSE": "/clicky-memory-game/static/js/2.dbaea621.chunk.js.LICENSE",
+    "static/media/Adventures_of_Pippi_Longstocking.jpg": "/clicky-memory-game/static/media/Adventures_of_Pippi_Longstocking.9f2f0df5.jpg",
+    "static/media/Black_Beauty.jpg": "/clicky-memory-game/static/media/Black_Beauty.f9e42b00.jpg",
+    "static/media/Boxcar_Children.jpg": "/clicky-memory-game/static/media/Boxcar_Children.507d8fc4.jpg",
+    "static/media/Charlie_and_the_Chocolate_Factory.jpg": "/clicky-memory-game/static/media/Charlie_and_the_Chocolate_Factory.b344fe59.jpg",
+    "static/media/Charlottes_Web.jpg": "/clicky-memory-game/static/media/Charlottes_Web.6c977301.jpg",
+    "static/media/Heidi.jpg": "/clicky-memory-game/static/media/Heidi.cb8e66bf.jpg",
+    "static/media/Little_Women.jpg": "/clicky-memory-game/static/media/Little_Women.d952d1af.jpg",
+    "static/media/The_Hobbit.jpg": "/clicky-memory-game/static/media/The_Hobbit.db8ced05.jpg",
+    "static/media/The_Lion_the_Witch_and_the_Wardrobe.jpg": "/clicky-memory-game/static/media/The_Lion_the_Witch_and_the_Wardrobe.83b80cba.jpg",
+    "static/media/The_Wizard_of_Oz.jpg": "/clicky-memory-game/static/media/The_Wizard_of_Oz.db24fdf3.jpg",
+    "static/media/Wind_in_the_Willows.jpg": "/clicky-memory-game/static/media/Wind_in_the_Willows.0266ad47.jpg",
+    "static/media/Winnie_the_Pooh.jpg": "/clicky-memory-game/static/media/Winnie_the_Pooh.ef33f47c.jpg",
+    "static/media/Banner.css": "/clicky-memory-game/static/media/bookswallpaper.e5e7c0a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00513e4d.js",
+    "static/js/2.dbaea621.chunk.js",
+    "static/css/main.77e2a5c7.chunk.css",
+    "static/js/main.80537ed7.chunk.js"
+  ]
+}
