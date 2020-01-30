@@ -13,7 +13,7 @@ class ClickyGame extends Component {
     navMsgColor: '',
 
     // contains intro, success, and failure message
-    navMessage: 'Click any image to begin the game.',
+    navMessage: 'Click any book to begin.',
 
     // contains an array of image urls
     allCovers: this.shuffleArray(),
@@ -81,25 +81,25 @@ class ClickyGame extends Component {
         score: score,
         highScore: highScore,
         navMsgColor: 'incorrect',
-        navMessage: 'Incorrect guess!',
+        navMessage: 'Incorrect! Begin again ...',
         allCovers: shuffled,
         wasClicked: [],
         shake: true
       });
     }
 
-    // if this runs, then the same element has NOT been clicked twice and the score is increased
+    // if this runs, then the same element has NOT been clicked twice and the score is incremented
     this.setState({
       score: score,
       highScore: highScore,
       navMsgColor: 'correct',
-      navMessage: 'You guessed correctly!',
+      navMessage: 'Correct!',
       allCovers: shuffled,
       wasClicked: prevState,
       shake: false
     });
 
-    // removes the green correct indicator on a successful click after .5s to re-render the class on each success
+    // removes the yellow correct indicator on a successful click after .5s to re-render the class on each success
     return setTimeout(() => this.setState({ navMsgColor: '' }), 500);
   }
 

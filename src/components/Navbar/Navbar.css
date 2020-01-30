@@ -1,14 +1,15 @@
 .navbar {
-    background: #006064;
+    background: #85441C;
     min-height: 70px;
     font-size: 18px;
-    padding: 20px 0;
+    padding: 20px;
+    padding-left: 10px;
     width: 100%;
-    -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     color: #fff;
     z-index: 99;
     white-space: nowrap;
+    border-bottom: medium solid white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   .navbar div {
@@ -19,18 +20,20 @@
   
   .navbar div:first-child {
     letter-spacing: 1px;
-    font-weight: 900;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
+  /* for | between Score and High Score*/
   .pipe {
     margin: 0 10px;
   }
   
   .correct {
-    animation: correctGuess 0.5s;
+    animation: correctGuess 0.75s;
   }
   .incorrect {
-    animation: incorrectGuess 0.5s;
+    animation: incorrectGuess 0.75s;
   }
   
   @keyframes incorrectGuess {
@@ -38,10 +41,10 @@
       color: white;
     }
     25% {
-      color: red;
+      color: orange;
     }
     75% {
-      color: red;
+      color:  orange;
     }
     100% {
       color: white;
@@ -53,10 +56,10 @@
       color: white;
     }
     25% {
-      color: green;
+      color: yellow;
     }
     75% {
-      color: green;
+      color: yellow;
     }
     100% {
       color: white;

@@ -2,7 +2,7 @@ import React from 'react';
 import './Container.css';
 import Cover from '../Cover';
 
-// main container for each Book Cover  component
+// main container for each Book Cover component
 // loops through each index in props.covers, which contains an array of book cover images
 // to create a new Cover component for each image
 // attaches the passed down clickEvent function to each Cover component
