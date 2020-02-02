@@ -41,7 +41,7 @@ The site is mobile responsive, built with Bootstrap 4.0 and CSS with media queri
 
 ### Creating the app from my files in my GitHub repository ### 
 
-The last set of files in my repository are the files in the "build: folder," which was created to deploy my app to GitHub pages. If you wish to see the files and folders I used before that build, see my earlier commit (labeled "added info for deploying to github pages"). See the following section that contains the boilerplate README when you run the create-react-app package.
+The last set of files in my repository are the files in the "build" folder, which was created to deploy my app to GitHub pages. If you wish to see the files and folders I used before that build, see my earlier commit (labeled "added info for deploying to github pages"). See the following section that contains the boilerplate README that will instruct you on how to run the create-react-app package and run the app locally with those files.
 
 <!-- Boilerplate README from create-react-app-->
 ### Below is the boilerplate README information added by running create-react-app package to create this app ###
