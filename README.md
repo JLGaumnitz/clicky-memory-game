@@ -10,7 +10,7 @@ GitHub Pages deployed app: https://jlgaumnitz.github.io/clicky-memory-game/
 GitHub repository: https://github.com/JLGaumnitz/clicky-memory-game
 - - - -
 
-This memory game challenges users to click on book covers of Children's Classics without clicking on the same cover twice. The app uses React, React-DOM, and gh-pages. It was bootstrapped with the Create- React-App npm.
+This memory game challenges users to click on book covers of Children's Classics without clicking on the same cover twice. The app uses React, React-DOM, and gh-pages. It was bootstrapped with the Create-React-App npm package.
 
 ![Memory Game Start](./static/media/RM01_Childrens_Classics_Memory_Game_Start.png)
 
